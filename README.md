@@ -1,16 +1,24 @@
-### Hi there 👋
+## Olá, eu sou o Angles! 👋
 
-<!--
-**SrGles/SrGles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨🏼‍🎓 Atualmente cursando Análise e Desenvolvimento de Sistemas. 3/5 ->
+- ⏳ Tecnologias que Estudo atualmente: Javascript e React.
 
-Here are some ideas to get you started:
+![Angles GitHub stats](https://github-readme-stats.vercel.app/api?username=SrGles&show_icons=true&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <img align="center" alt="Html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JS" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+</div>
+
+### 📞 Contato
+<div>
+<a href="https://www.linkedin.com/in/angles-silva-a57857163/" target="_blank"><img 
+src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+
+### Total de Visitas no perfil 🕵️ <br>
+ <p align="left"> 
+  <img alingn="center" src="https://profile-counter.glitch.me/SrGles/count.svg"/>
+  
