@@ -1,7 +1,7 @@
 ## Olá, eu sou o Angles! 👋
 
 - 👨🏼‍🎓 Atualmente cursando Análise e Desenvolvimento de Sistemas. 3/5 ->
-- ⏳ Tecnologias que Estudo atualmente: Javascript e React.
+- ⏳ Tecnologias que Estudo na atualidade: Javascript e React.
 
 ![Angles GitHub stats](https://github-readme-stats.vercel.app/api?username=SrGles&show_icons=true&theme=tokyonight)
 <hr>
